@@ -1,0 +1,6 @@
+{
+  "name": "Mini CRM Lead Manager",
+  "description": "A full-stack MERN application for managing sales leads with JWT authentication, pagination, and status tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
